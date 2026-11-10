@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment secrets
+.env
+.env.local
+
+# macOS metadata
+.DS_Store
+
+# PyTorch checkpoints cache
+*.pth
